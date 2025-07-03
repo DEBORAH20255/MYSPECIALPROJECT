@@ -1,5 +1,5 @@
 import AdobeCloudDocument from '../components/AdobeCloudDocument';
 
-export default function Home() {
+export default function Dashboard() {
   return <AdobeCloudDocument />;
 }
